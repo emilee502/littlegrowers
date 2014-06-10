@@ -12,7 +12,7 @@ div {
     margin: 0;
 }
 
-img {
+.img {
     display: block;
     position: absolute;
     padding-top: 45px;
@@ -75,3 +75,54 @@ p {
     font-size: 17px;
     padding-left: 40px;
 }
+
+.pot {
+    padding-top: 200px;
+    position: absolute;
+    width: 200px;
+}
+
+.pot:nth-child(1) {
+    left: 10px;
+    z-index: 1;
+}
+
+.pot:nth-child(2) {
+    left: 240px;
+    z-index: 1;
+}
+
+.pot:nth-child(3) {
+    right: 10px;
+    z-index: 1;
+}
+
+.plant {
+    position: absolute;
+}
+
+.start {
+    left: 100px;
+    bottom: 125px;
+}
+
+.mid {
+    left: 313px;
+    bottom: 100px;
+}
+
+.full {
+    right: 31px;
+    bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
