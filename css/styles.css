@@ -6,7 +6,7 @@ body {
     margin-right: auto;
 }
 
-div {
+#starter {
     width: 900px;
     overflow: hidden;
     margin: 0;
@@ -59,9 +59,13 @@ li:hover {
 nav {
     position: absolute;
     background-color: white;
-    height: 425px;
+    height: 450px;
     width: 680px;
     margin: 200px 100px 0 100px;
+}
+
+.img {
+    z-index: 10;
 }
 
 h1  {
@@ -115,6 +119,46 @@ p {
     right: 31px;
     bottom: 50px;
 }
+
+.kit {
+    width: 170px;
+    float: left;
+}
+
+div p {
+    padding: 0 8px;
+    text-align: center;
+}
+
+div div {
+    margin-left: 33px;
+    width: 105px;
+    height: 30px;
+    background-color: #ee482e;
+    border: 3px solid #dd2310;
+}
+
+div div p:hover {
+    background-color: #c61e0c;
+    border-color: #ee482e;
+}
+
+div div p {
+    font-family: 'Coming Soon', cursive;
+    color: white;
+}
+
+div p img {
+    width: 30px;
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
 
 
 
