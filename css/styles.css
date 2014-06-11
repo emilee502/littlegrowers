@@ -76,7 +76,7 @@ h1  {
 
 p {
     font-family: 'Helvetica';
-    font-size: 17px;
+    font-size: 22px;
     padding-left: 40px;
 }
 
@@ -107,17 +107,17 @@ p {
 
 .start {
     left: 100px;
-    bottom: 125px;
+    bottom: 155px;
 }
 
 .mid {
     left: 313px;
-    bottom: 100px;
+    bottom: 130px;
 }
 
 .full {
     right: 31px;
-    bottom: 50px;
+    bottom: 72px;
 }
 
 .kit {
@@ -128,6 +128,7 @@ p {
 div p {
     padding: 0 8px;
     text-align: center;
+    font-size: 17px;
 }
 
 div div {
@@ -153,6 +154,11 @@ div p img {
     padding-left: 10px;
 }
 
+ul p {
+    font-family: 'Coming Soon', cursive;
+    font-size: 20px;
+    padding-left: 40px;
+}
 
 
 

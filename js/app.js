@@ -16,13 +16,13 @@ $('.ab').click(function(){
 		'z-index' : '0'
 	})
 	$('.start').animate({
-		'bottom' : '125px'
+		'bottom' : '155px'
 	})
 	$('.mid').animate({
-		'bottom' : '100px'
+		'bottom' : '130px'
 	})
 	$('.full').animate({
-		'bottom' : '50px'
+		'bottom' : '72px'
 	})
 
 });
@@ -45,13 +45,13 @@ $('.gram').click(function(){
 		'z-index' : '0'
 	})
 	$('.start').animate({
-		'bottom' : '125px'
+		'bottom' : '155px'
 	})
 	$('.mid').animate({
-		'bottom' : '100px'
+		'bottom' : '130px'
 	})
 	$('.full').animate({
-		'bottom' : '50px'
+		'bottom' : '72px'
 	})
 
 });
@@ -74,13 +74,13 @@ $('.duct').click(function(){
 		'z-index' : '0'
 	})
 	$('.start').animate({
-		'bottom' : '125px'
+		'bottom' : '155px'
 	})
 	$('.mid').animate({
-		'bottom' : '100px'
+		'bottom' : '130px'
 	})
 	$('.full').animate({
-		'bottom' : '50px'
+		'bottom' : '72px'
 	})
 
 
@@ -104,13 +104,13 @@ $('.con').click(function(){
 		'z-index' : '0'
 	})
 	$('.start').animate({
-		'bottom' : '125px'
+		'bottom' : '155px'
 	})
 	$('.mid').animate({
-		'bottom' : '100px'
+		'bottom' : '130px'
 	})
 	$('.full').animate({
-		'bottom' : '50px'
+		'bottom' : '72px'
 	})
 
 });
@@ -133,13 +133,13 @@ $('.img').click(function(){
 		'z-index' : '1'
 	})
 	$('.start').animate({
-		'bottom' : '200px'
+		'bottom' : '230px'
 	},2000, "swing")
 	$('.mid').animate({
-		'bottom' : '210px'
+		'bottom' : '240px'
 	},2000, "swing")
 	$('.full').animate({
-		'bottom' : '220px'
+		'bottom' : '245px'
 	},2000, "swing")
 
 });
