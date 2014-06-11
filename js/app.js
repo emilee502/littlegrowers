@@ -1,3 +1,15 @@
+$(window).load(function(){
+	$('.start').animate({
+		'bottom' : '230px'
+	},2000, "swing")
+	$('.mid').animate({
+		'bottom' : '240px'
+	},2000, "swing")
+	$('.full').animate({
+		'bottom' : '245px'
+	},2000, "swing")
+})
+
 $('.ab').click(function(){
 
 	$('#ab').animate({
